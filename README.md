@@ -1,1 +1,1 @@
-A basic preset for adding beautiful VFX to almost any game, 2D or 3D.
+yea this is basically just all of my reshade presets
